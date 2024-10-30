@@ -60,12 +60,8 @@ To reproduce the analysis:
    cd dengAI
    ```
 
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook to view the analysis:
+2. Run the Notebook in Jupyter-Notebook or Google Colab to view the analysis:
    ```bash
    jupyter notebook DengAI.ipynb
    ```
+   or Open the notebook in Google Colab
