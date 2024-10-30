@@ -56,8 +56,8 @@ To reproduce the analysis:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd dengAI-main
+   git clone https://github.com/Sumitmeharwade/dengAI.git
+   cd dengAI
    ```
 
 2. Install required libraries:
